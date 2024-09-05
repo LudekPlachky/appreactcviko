@@ -1,0 +1,7 @@
+.programmer-row {
+  background-color: #ffffff;
+}
+
+.programmer-row:nth-child(even) {
+  background-color: #d7ecff;
+}

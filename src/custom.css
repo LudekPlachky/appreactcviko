@@ -1,0 +1,19 @@
+body {
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #e6f2ff;
+  color: #333;
+}
+.toggler-btn {
+  border: 1px solid #3399ff;
+  border-radius: 10px;
+  color: #3399ff;
+  font-size: 20px;
+  cursor: pointer;
+  background-color: transparent;
+}
+.btn-del {
+  background-color: #3399ff;
+  border-radius: 100%;
+}
